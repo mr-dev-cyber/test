@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 70c5e30ec6ea3435f47a936243a7f588501f17ca dali meftahi <dali@UPES.tn> 1792414810 +0100	commit (initial): ajout de readme
+70c5e30ec6ea3435f47a936243a7f588501f17ca b22cf9f198c881c003a28e06676fd6e8b95bc458 dali meftahi <dali@UPES.tn> 1792414959 +0100	commit: ajoute ajouter_tache
+b22cf9f198c881c003a28e06676fd6e8b95bc458 573954ee0db5f44aaeb218bcf80322c4d9d62152 dali meftahi <dali@UPES.tn> 1792415605 +0100	revert: Revert "ajoute ajouter_tache"
+573954ee0db5f44aaeb218bcf80322c4d9d62152 573954ee0db5f44aaeb218bcf80322c4d9d62152 dali meftahi <dali@UPES.tn> 1792415995 +0100	checkout: moving from main to feature-supprimer
+573954ee0db5f44aaeb218bcf80322c4d9d62152 573954ee0db5f44aaeb218bcf80322c4d9d62152 dali meftahi <dali@UPES.tn> 1792416099 +0100	checkout: moving from feature-supprimer to main
+573954ee0db5f44aaeb218bcf80322c4d9d62152 573954ee0db5f44aaeb218bcf80322c4d9d62152 dali meftahi <dali@UPES.tn> 1792416168 +0100	checkout: moving from main to feature-readme
+573954ee0db5f44aaeb218bcf80322c4d9d62152 573954ee0db5f44aaeb218bcf80322c4d9d62152 dali meftahi <dali@UPES.tn> 1792416213 +0100	checkout: moving from feature-readme to main
